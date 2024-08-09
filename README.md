@@ -4,4 +4,7 @@ This is a repository of all my python projects as i embark on learning the pytho
 PROJECT1- TREASURE ISLAND.
 This is an adventure game that i call Treasure Island. Basically, your chances of survival and finding the treasure during the hunt solely depends on the choices you make.
 
+PROJECT 2 - ROCK, PAPER, SCISSORS
+This project was designed to emulate the popular Rock, Paper, Scissors game.  Enjoy!!
+
 Good luck!!!
